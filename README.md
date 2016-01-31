@@ -1,10 +1,12 @@
 # Twitch
 
+**Channel Description:** Joyful indie game studio & collaborative workspace for game lovers & makers. 
+
 **URL:** http://www.twitch.tv/cyberhippiecollective
 
 **Schedule:** TBA
 
-# Twitch Sidebar/Underbar
+# Sidebar descriptions
 
 ### About me
 
