@@ -1,7 +1,8 @@
 # Twitch
 
 **URL:** http://www.twitch.tv/cyberhippiecollective
-**Schedule:**
+
+**Schedule:** TBA
 
 # Twitch Sidebar/Underbar
 
