@@ -7,9 +7,15 @@
 # Twitch Sidebar/Underbar
 
 ### About me
+
+![mothnode-circle-avatar](https://cloud.githubusercontent.com/assets/2768053/12680871/3b79ba0e-c6ac-11e5-8870-58fdb2f1c891.png)
+
 My name is Tim ([@mothnode](http://www.twitter.com/mothnode)) and my aim is to create and maintain the following three things: a **joyful indie game studio**, a **collaborative workspace for game lovers & makers** and a **venue for community events** located in Poznań, Poland. [Read more about Cyberhippie Collective on my website & let me know what you think!](http://www.cyberhippie.co)
 
 ### Be part of the tribe
+
+![patreon](https://cloud.githubusercontent.com/assets/2768053/12701821/b150adf8-c816-11e5-8ba0-ed849fdff779.png)
+
 Support me on Patreon and get perks! All funds received are dedicated to enabling me to work unhindered by the economic nature of things. If you wish to support me directly you can donate [right here](https://streamtip.com/t/cyberhippiecollective) via PayPal.
 
 ### Equipment
