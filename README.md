@@ -8,7 +8,7 @@
 
 **Channel Avatar:** 
 
-
+<img src="https://cloud.githubusercontent.com/assets/2768053/12701865/7e3fe710-c818-11e5-997c-33fae0891c8d.png" height="100" />
 
 **URL:** http://www.twitch.tv/cyberhippiecollective
 
