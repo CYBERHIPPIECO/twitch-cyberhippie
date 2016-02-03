@@ -8,7 +8,7 @@
 
 **Stream Software:** XSplit, OBS
 
-**Twitch Chat Commands:** Moobot
+**Twitch Chat Commands:** [Nightbot](https://www.nightbot.tv)
 
 **Channel Banner & Avatar:** 
 
