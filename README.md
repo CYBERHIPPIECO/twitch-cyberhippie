@@ -6,6 +6,8 @@
 
 **Schedule:** TBA
 
+**Stream Software:** XSplit, OBS
+
 **Channel Banner & Avatar:** 
 
 <img src="https://cloud.githubusercontent.com/assets/2768053/12701854/cb519afe-c817-11e5-9ac9-f13f7a1a04dc.png" height="100" /> <img src="https://cloud.githubusercontent.com/assets/2768053/12701865/7e3fe710-c818-11e5-997c-33fae0891c8d.png" height="100" />
