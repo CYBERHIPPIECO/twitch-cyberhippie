@@ -20,7 +20,7 @@ My name is Tim ([@mothnode](http://www.twitter.com/mothnode)) and my aim is to c
 
 <img src="https://cloud.githubusercontent.com/assets/2768053/12701821/b150adf8-c816-11e5-8ba0-ed849fdff779.png" height="50" />
 
-Support me on Patreon and get perks! All funds received are dedicated to enabling me to work unhindered by the economic nature of things. If you wish to support me directly you can donate [right here](https://streamtip.com/t/cyberhippiecollective) via PayPal.
+Support me on Patreon and get perks! This is a one man operation and all funds received are dedicated to enabling me to work unhindered by the economic nature of things. If you wish to support me directly you can donate [right here](https://streamtip.com/t/cyberhippiecollective) via PayPal.
 
 ### Equipment
 **Laptop:** XNOTE, Intel Core i7-4720HQ 2.60-3.60GHz Turbo, NVIDIA GeForce GTX 970M 3.0GB GDDR5, 16 GB (2 x 8) CRUCIAL DDR3L 1600 MHz DDR3 CL1, SAMSUNG 128GB  XP941 M.2, HDD 1TB HGST Hitachi 7200 RPM 32MB cache  
