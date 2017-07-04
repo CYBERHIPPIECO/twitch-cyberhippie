@@ -20,6 +20,8 @@ This is a Cyberhippie Collective Twitch repo containing all the source files and
 
 > **Webware:** StreamElements
 
+# Sub Emotes
+
 # Panels
 
 # Overlays
