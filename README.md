@@ -31,3 +31,11 @@ This is a Cyberhippie Collective Twitch repo containing all the source files and
 
 # Overlays
 - promo slideshow
+
+# Chat Rules
+- English only
+- Mutual respect
+- No political topics
+- No hate speech or explicit content
+- Don't provide tips unless asked for
+- No spamming
