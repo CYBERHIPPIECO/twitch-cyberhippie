@@ -25,6 +25,7 @@ This is a Cyberhippie Collective Twitch repo containing all the source files and
 # Profile Graphics
 - avatar
 - banner
+- offline graphic
 
 # Panels
 
