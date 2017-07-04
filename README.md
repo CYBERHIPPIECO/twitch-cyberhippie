@@ -22,6 +22,8 @@ This is a Cyberhippie Collective Twitch repo containing all the source files and
 
 # Sub Emotes
 
+# Profile Graphics
+
 # Panels
 
 # Overlays
