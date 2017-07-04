@@ -23,9 +23,10 @@ This is a Cyberhippie Collective Twitch repo containing all the source files and
 # Sub Emotes
 
 # Profile Graphics
+- avatar
+- banner
 
 # Panels
 
 # Overlays
-
-- Promo Slideshow
+- promo slideshow
