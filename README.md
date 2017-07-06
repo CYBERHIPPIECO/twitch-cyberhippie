@@ -157,3 +157,26 @@ https://blog.patreon.com/make-money-youtube-2017
 https://restream.io/speed-test
 
 Hi all, my name is Cyberhippie (formerly mothnode) and I'm creating a game studio, community workspace and live broadcasts on Twitch. I try to stream 5 times a week with variety of content ranging from IRL streams (longboarding and other things), gamedev, gaming and event coverage. Currently I'm a PC person and usually like to play indie games but I don't stray far from AAA or popular titles. It depends on our community and the mood. Fun fact about me: I drink tea only with honey and milk. Gallons upon gallons of it. Here are my social media profiles and open Discord for the ones who want to dive deeper into our community: www.twitch.tv/cyberhippiecollective https://discord.gg/gbErR3B (Discord) www.facebook.com/cyberhippiecollective www.patreon.com/cyberhippie www.twitter.com/mothnode I'm also doing an 3-month X-Split License Giveaway (first giveaway ever!) so if you need software to stream, have a go: https://gleam.io/lAUic/cyberhippie-gives-away-3month-license-for-xsplit (Cyberhippie gives away 3-Month License for XSplit) Nice to meet you all! <3 SW-1254-3911-5813
+
+**Streaming Settings**
+Bitrate: 2000
+Res: 1920x1080 downscaled to 1280x720
+Encoding: x264 or Quicksync
+Set Preset under advanced: Very Fast
+
+Streaming Apps
+Twitch Dashboard https://www.twitch.tv/cyberhippiecollective/dashboard
+Streamlabs https://streamlabs.com
+KappaGen https://cbenni.com/kappagen/settings/
+SocialBlade https://socialblade.com/twitch/user/cyberhippiecollective
+StreamElements
+
+Streaming (Windows)
+XSplit Main Window
+XSplit Projection
+Game Capture
+
+Organizing
+Gmail - e-mail
+Trello - project database
+Eventbrite - events
