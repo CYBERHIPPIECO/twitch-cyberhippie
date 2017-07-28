@@ -1,3 +1,29 @@
+Twitch Stream Announcement List
+Discord #announcements
+YouTube Video Upload
+Patreon Post
+Cyberhippie Facebook
+Instagram
+Reddit
+Twitch Pulse
+Twitter Post
+Join the Followtrain.tv
+
+https://www.facebook.com/groups/twitchconnect
+https://www.facebook.com/groups/788647521163571/
+https://www.facebook.com/groups/twitchfollow4follow/
+https://www.facebook.com/groups/171276589748385/
+https://www.facebook.com/groups/TwitchPeople/
+https://www.facebook.com/groups/1379509342379764/
+https://www.facebook.com/groups/twitchtvteam
+https://www.facebook.com/groups/481721432037541/
+https://www.facebook.com/groups/YoutubeAndTwitch/
+https://www.facebook.com/groups/211799929239879
+https://www.facebook.com/groups/942226942521754/
+https://www.facebook.com/groups/twitchtvstreamers/
+https://www.facebook.com/groups/661022790615531/
+https://www.facebook.com/groups/552262884914369
+
 This is a Cyberhippie Collective Twitch repo containing all the source files and text.
 
 > **URL:** www.twitch.tv/cyberhippiecollective
