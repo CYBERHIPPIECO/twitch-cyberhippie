@@ -207,46 +207,32 @@ Gmail - e-mail
 Trello - project database
 Eventbrite - events
 
-Tools To Open
-0%
-OBS (alternatively XSplit)
-Twitch Dashboard (alternatively Moobot or Stream Hatchet)
-Twitch Alerts
-Revlo
-Social Blade
-Delete…
- Intro Order
-0%
-App Positioning
-Activate Live Intro Panel
-Introduce what you're doing today
-Twitch Stream
-in list FAQ
-
-6.07.2017 Twitch Stream on Control Center | Trello
-https://trello.com/c/8b2MM9qz/370-twitch-stream 2/6
-Thank the followers/subs
-Welcome all the viewers in chat (rollcall, gathering round)
-Livetweeting (viewers get pinecones for retweets)
-Schedule for the next days
-What's up with you guys?
-Song Requests
-Add pinecones for those who retweeted
-Double Pinecones Day
-Stream
-Music Break
-Stream
-Music Break
-Stream
-Talk about Patreon
-Thank all for spending time with you
-Activate Live Outro Panel
-Turn off Revlo
-Save the stream to Highlights
-Export Highlights to YouTube
-Tweet about the Highlights
-Delete…
- Tasks
-0%
-Channel Giveaways
-Patreon Donation Goal
+- Open Discord
+- Open StreamElements
+- Open Twitch Dashboard
+- Open Twitch Alerts
+- Open Social Blade
+- Open XSplit
+- Open Patreon #screenshotsaturday
+- Position the apps
+- Go live
+- Activate The Intro
+- Introduce what you're doing today
+- Thank the followers/subs
+- Welcome all the viewers in chat (rollcall, gathering round) 
+- Double Pinecones Day
+- Livetweeting (viewers get pinecones for retweets) 
+- What's up with you guys? 
+- Add pinecones for those who retweeted 
+- #screenshotsaturday
+- Stream 
+- Workspace Cam 
+- Stream 
+- Workspace Cam 
+- Stream 
+- Talk about Patreon 
+- Thank all for spending time with you 
+- Activate The Outro
+- Save the stream to Highlights 
+- Export Highlights to YouTube 
+- Tweet about the Highlights
